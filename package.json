@@ -1,8 +1,12 @@
 {
-  "name": "node-throttle-messages-firebase",
-  "version": "1.0.0",
+  "name": "throttle-messages-firebase",
+  "version": "1.0.1",
   "description": "Send messages throttled either as emails or notifications",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeabledk/node-throttle-messages-firebase.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
