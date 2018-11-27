@@ -25,3 +25,8 @@ export const sendWithCron = functions.https.onRequest((req, res) => throttledMes
 ```
 
 Build process uses TypeScript
+
+## License
+CC BY-SA
+
+This project was brought to you by [Makeable ApS](https://github.com/makeabledk) 
